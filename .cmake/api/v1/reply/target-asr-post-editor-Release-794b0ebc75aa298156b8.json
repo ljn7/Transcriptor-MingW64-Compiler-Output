@@ -1,0 +1,688 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "asr-post-editor.exe"
+		},
+		{
+			"path" : "asr-post-editor.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_property",
+			"include",
+			"find_package"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"D:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+			"D:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+			"D:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 28,
+				"parent" : 4
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 244,
+				"parent" : 6
+			},
+			{
+				"file" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 8
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_MULTIMEDIAWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_MULTIMEDIA_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_PRINTSUPPORT_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release"
+				},
+				{
+					"path" : "D:/Internship/IITB/Transcriptor_copy/Transcriptor"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtGui"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtANGLE"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtMultimedia"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtMultimediaWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/Qt/5.15.2/mingw81_64/include/QtPrintSupport"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4,
+				9,
+				10,
+				11,
+				15,
+				16,
+				17,
+				28,
+				29,
+				30,
+				31,
+				32,
+				47,
+				48,
+				49
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "asr-post-editor_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "asr-post-editor_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "asr-post-editor::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-mwindows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5MultimediaWidgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5PrintSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Multimedia.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "D:\\Qt\\5.15.2\\mingw81_64\\lib\\libqtmain.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "asr-post-editor",
+	"nameOnDisk" : "asr-post-editor.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4,
+				9,
+				10,
+				11,
+				15,
+				16,
+				17,
+				28,
+				29,
+				30,
+				31,
+				32,
+				47,
+				48,
+				49
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				7,
+				8,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				46
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				12,
+				13,
+				14,
+				18,
+				19,
+				20,
+				21,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				50,
+				51,
+				52,
+				53
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tool.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "tool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "transcriptgenerator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tool.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "transcriptgenerator.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "convert.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "icons.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "mediaplayer/mediaplayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "mediaplayer/playercontrols.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "mediaplayer/videowidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "mediaplayer/mediaplayer.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "mediaplayer/playercontrols.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "mediaplayer/videowidget.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/editor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/texteditor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/wordeditor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/blockandword.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/editor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/texteditor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/wordeditor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/wordlists.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/changespeakerdialog.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/equationeditor.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/findreplacedialog.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/tagselectiondialog.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/timepropagationdialog.ui",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/utilities/equationeditor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/utilities/findreplacedialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/utilities/keyboardshortcutguide.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/utilities/taglistdisplaywidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "editor/utilities/tagselectiondialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/changespeakerdialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/equationeditor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/findreplacedialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/keyboardshortcutguide.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/taglistdisplaywidget.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/tagselectiondialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "editor/utilities/timepropagationdialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/ui_tool.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/editor/utilities/ui_changespeakerdialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/editor/utilities/ui_equationeditor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/editor/utilities/ui_findreplacedialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/editor/utilities/ui_tagselectiondialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/include/editor/utilities/ui_timepropagationdialog.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/EWIEGA46WW/qrc_convert.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/EWIEGA46WW/qrc_icons.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/3HAKN7MTYQ/qrc_wordlists.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/EWIEGA46WW/qrc_convert.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/EWIEGA46WW/qrc_icons.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_5_15_2_MinGW_64_bit-Release/asr-post-editor_autogen/3HAKN7MTYQ/qrc_wordlists.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}
