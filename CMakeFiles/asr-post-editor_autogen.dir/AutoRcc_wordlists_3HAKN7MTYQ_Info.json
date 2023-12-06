@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/asr-post-editor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Internship/IITB/Transcriptor_copy/Transcriptor",
+	"CMAKE_SOURCE_DIR" : "D:/Internship/IITB/Transcriptor_copy/Transcriptor",
+	"INCLUDE_DIR" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/asr-post-editor_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Internship/IITB/Transcriptor_copy/Transcriptor/editor/wordlists/english.txt",
+		"D:/Internship/IITB/Transcriptor_copy/Transcriptor/editor/wordlists/sanskrit.txt",
+		"D:/Internship/IITB/Transcriptor_copy/Transcriptor/editor/wordlists/hindi.txt",
+		"D:/Internship/IITB/Transcriptor_copy/Transcriptor/editor/wordlists/gujarati.txt"
+	],
+	"LOCK_FILE" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/asr-post-editor_autogen.dir/AutoRcc_wordlists_3HAKN7MTYQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "wordlists" ],
+	"OUTPUT_CHECKSUM" : "3HAKN7MTYQ",
+	"OUTPUT_NAME" : "qrc_wordlists.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/asr-post-editor_autogen.dir/AutoRcc_wordlists_3HAKN7MTYQ_Used.txt",
+	"SOURCE" : "D:/Internship/IITB/Transcriptor_copy/Transcriptor/editor/wordlists.qrc",
+	"VERBOSITY" : 0
+}
