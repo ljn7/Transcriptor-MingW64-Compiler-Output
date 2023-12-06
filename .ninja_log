@@ -28,3 +28,10 @@
 14615	33305	7236014802192817	CMakeFiles/asr-post-editor.dir/editor/editor.cpp.obj	15cac1ff0b840ef3
 22645	37090	7236014840034666	CMakeFiles/asr-post-editor.dir/asr-post-editor_autogen/3HAKN7MTYQ/qrc_wordlists.cpp.obj	eb009629557f0b25
 37091	38227	7236014851340313	asr-post-editor.exe	95f2c16f8b6945d3
+50	326	7236031897947803	asr-post-editor_autogen/timestamp	fc9356dc7ef01e18
+50	326	7236031897947803	asr-post-editor_autogen/mocs_compilation.cpp	fc9356dc7ef01e18
+50	326	7236031897947803	D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/asr-post-editor_autogen/timestamp	fc9356dc7ef01e18
+50	326	7236031897947803	D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/asr-post-editor_autogen/mocs_compilation.cpp	fc9356dc7ef01e18
+336	5198	7236031946666560	CMakeFiles/asr-post-editor.dir/transcriptgenerator.cpp.obj	c303d2b7e9ebbe89
+333	7622	7236031970879447	CMakeFiles/asr-post-editor.dir/tool.cpp.obj	a210922bdcc9ae77
+7622	8256	7236031977157355	asr-post-editor.exe	95f2c16f8b6945d3

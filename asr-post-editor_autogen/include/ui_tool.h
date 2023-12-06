@@ -641,7 +641,7 @@ public:
         Tool->setCentralWidget(centralwidget);
         menubar = new QMenuBar(Tool);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 800, 25));
+        menubar->setGeometry(QRect(0, 0, 800, 21));
         menuFile = new QMenu(menubar);
         menuFile->setObjectName("menuFile");
         menuMedia_Player = new QMenu(menubar);
@@ -856,7 +856,7 @@ public:
         actionRemove_Time_Stamp->setText(QCoreApplication::translate("Tool", "Remove Time Stamp", nullptr));
         actionAbout->setText(QCoreApplication::translate("Tool", "About", nullptr));
         actionSave_as_XML->setText(QCoreApplication::translate("Tool", "Save as XML", nullptr));
-        actionVersion_1_0_3->setText(QCoreApplication::translate("Tool", "Version 3.0.0", nullptr));
+        actionVersion_1_0_3->setText(QCoreApplication::translate("Tool", "Version 3.0.1", nullptr));
 #if QT_CONFIG(tooltip)
         add_video->setToolTip(QCoreApplication::translate("Tool", "Add video", nullptr));
 #endif // QT_CONFIG(tooltip)
