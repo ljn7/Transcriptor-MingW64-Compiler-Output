@@ -1,5 +1,0 @@
-D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/asr-post-editor.dir
-D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/asr-post-editor_autogen_timestamp_deps.dir
-D:/Internship/IITB/Transcriptor_copy/build-Transcriptor-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/asr-post-editor_autogen.dir
